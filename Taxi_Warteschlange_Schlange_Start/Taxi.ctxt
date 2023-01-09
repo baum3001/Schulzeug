@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Taxi
+comment0.text=\r\n\r\n\ Beschreibung\r\n\r\n\ @version\ 1.0\ vom\ %DATUM%\r\n\ @author\ %AUTOR%\r\n
+comment1.params=name
+comment1.target=Taxi(java.lang.String)
+comment2.params=
+comment2.target=Taxi\ nachfolgerGeben()
+comment3.params=t
+comment3.target=void\ nachfolgerSetzen(Taxi)
+comment4.params=
+comment4.target=java.lang.String\ getFahrerName()
+comment5.params=fahrerName
+comment5.target=void\ setFahrerName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getKennzeichen()
+comment7.params=kennzeichen
+comment7.target=void\ setKennzeichen(java.lang.String)
+comment8.params=x\ y
+comment8.target=void\ setzePosition(int,\ int)
+numComments=9

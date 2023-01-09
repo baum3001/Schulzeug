@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TaxiWarteschlange
+comment1.params=
+comment1.target=TaxiWarteschlange()
+comment2.params=t
+comment2.target=void\ hintenAnstellen(Taxi)
+comment3.params=
+comment3.target=Taxi\ vorneAbfahren()
+numComments=4
